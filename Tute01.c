@@ -9,10 +9,10 @@ int main(void) {
 int m1,m2;
 float avg;
   
-printf("Enter your mark in first subject  ");
+printf("Enter your mark in first subject : ");
 scanf("%d", &m1);
 
-printf("Enter your mark in second subject  ");
+printf("Enter your mark in second subject : ");
 scanf("%d", &m2);
 
 avg=(m1+m2)/2.0;
