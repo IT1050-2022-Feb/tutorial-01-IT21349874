@@ -23,7 +23,7 @@ int main()
   int kmcount=1;
   
   printf("Enter the distance that you'vs travelled by the vehicle : ");
-  scanf("%d", &dist);
+  scanf("%f", &dist);
   
   if(dist<=30){
     amnt=dist*50.0;
